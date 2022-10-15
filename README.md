@@ -1,5 +1,5 @@
 ## 🚀STORE ONLINE
-Store online with layout HTML, CSS, JS and manipulation of DOM for create a web page interactive simulationing the callbacks of the users !!
+Store online with layout HTML, CSS, JS and manipulation of DOM for create a web page interactive simulation the callbacks of the users !!
 
 View page => https://mateogonzalezamortegui.github.io/Store-Online/
 
